@@ -2,5 +2,5 @@
 
 int main(){
 
-  cout<<"i am try to practice this branch!"
+  cout<<"i am try to practice this main"
 }
